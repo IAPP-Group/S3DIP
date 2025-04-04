@@ -150,8 +150,8 @@ If you want to test the code on new data there are some pre-processing steps to 
 
 # TODO
 
-- [x] 🔄 Add bash script for reproducing the results
-- [ ] 🔧 Add pre-processing scripts
+- [ ] 🔄 Add bash script for reproducing the results
+- [x] 🔧 Add pre-processing scripts
 - [ ] 📂 Upload dataset files
 - [ ] 🚀 Improve execution efficiency
 - [ ] 📝 Update README with instructions
